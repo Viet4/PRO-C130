@@ -1,0 +1,16 @@
+3. Delete the columns which are required.
+    
+    I already removed the duplicated columns in the last project code by only having them appear once.
+    I didn't add the Luminosity column because it never did say to add a Luminosity column.
+
+---------------------------------------------------------------------------------------
+
+4. Delete the NAN values from the data.
+
+    In the last class it told me to remove NAN values so I don't need to do them again
+
+---------------------------------------------------------------------------------------
+
+5. Save data as new csv file
+
+    Didn't need to change any data so I didn't need to make a new csv file
